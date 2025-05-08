@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker
+# 🔐 Passcale
 This is a modern web-based password strength checker built using **HTML, CSS, and JavaScript**. 
 The project evaluates password strength based on common security criteria and provides feedback, including an estimate of how long it would take for an attacker to crack the password.
 The tool checks for:
